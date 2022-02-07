@@ -1,0 +1,29 @@
+
+*** These modified files were found in JOE when it aborted on Mon Feb  7 09:16:53 2022
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/home/hallgato/Letöltések/ip-geolocator/.git/COMMIT_EDITMSG
+
+*** File '/home/hallgato/Letöltések/ip-geolocator/.git/COMMIT_EDITMSG'
+#.
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   pom.xml
+#	new file:   src/main/java/geolocator/GeoLocation.java
+#	new file:   src/main/java/geolocator/GeoLocator.java
+#	new file:   src/main/java/geolocator/Main.java
+#
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
